@@ -1,0 +1,7 @@
+{
+    "packages": [
+        "package1",
+        "package2"
+    ],
+    "project_name": "test_dependency1"
+}

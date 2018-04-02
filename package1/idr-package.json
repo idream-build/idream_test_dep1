@@ -1,0 +1,6 @@
+{
+    "name": "package1",
+    "source_dir": "src",
+    "executable": false,
+    "dependencies": []
+}
