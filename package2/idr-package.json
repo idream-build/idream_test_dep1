@@ -1,6 +1,6 @@
 {
-    "name": "package2",
-    "type": "library",
-    "sourcedir": "src",
-    "depends": []
+  "name": "package2",
+  "type": "library",
+  "sourcedir": "src",
+  "depends": []
 }
